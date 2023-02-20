@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Saif
-<span align="right"><img src="https://komarev.com/ghpvc/?username=ferdousulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="ferdousulhaque" /></span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifcse06&layout=compact&theme=dark&width=500)](https://github.com/N-E-K-0/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifcse06&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/saifcsediu806?theme=dark&ext=activity&animation=true&width=500&height=250&border=0&radius=20)](https://leetcode.com/saifcsediu806/)
 
- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saifcse06&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide=stars,contribs)](https://github.com/saifcse06)
+
 # MD SAIF UDDIN
 I'm saif from Bangladesh, and I do Software Development. Currently, I am working as a senior software specialist at SSL Wireless.
 
